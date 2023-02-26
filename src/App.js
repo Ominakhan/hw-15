@@ -1,15 +1,20 @@
 
 import './App.css';
+import Form from './UI/Form';
+import Timer from './UI/Timer';
+import Button from './UI/Button';
 
 
 
 function App() {
   return (
-    <div className="App">
-    <div>Hello!</div>
-    <span>Omina Mamatalieva</span>
+    <div>
+    <Form/>
+    <Button/>
+    <Timer/>
     </div>
   );
 }
 
 export default App;
+

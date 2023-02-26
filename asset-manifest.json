@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ominakhan/hw-15.git/static/css/main.1d0bdb8f.css",
+    "main.js": "/Ominakhan/hw-15.git/static/js/main.f77e0120.js",
+    "index.html": "/Ominakhan/hw-15.git/index.html",
+    "main.1d0bdb8f.css.map": "/Ominakhan/hw-15.git/static/css/main.1d0bdb8f.css.map",
+    "main.f77e0120.js.map": "/Ominakhan/hw-15.git/static/js/main.f77e0120.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d0bdb8f.css",
+    "static/js/main.f77e0120.js"
+  ]
+}
